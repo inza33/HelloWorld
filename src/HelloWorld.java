@@ -6,7 +6,7 @@
 //TODO
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("Witaj");
         System.out.println(233);
         System.out.println('M' + 'K');
     }
